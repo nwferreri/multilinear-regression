@@ -24,7 +24,7 @@ Features:
 ## Analysis
 Initial analysis only included `tsales`, `margin`, `nown`, `inv1`, `inv2`, `ssize`, and `start`, as these features seemed most relevant.
 
-Summary statistics were generated and a correlation matrix was created to check for possible collinearity issues.
+Summary statistics were generated and a correlation matrix was created to check for possible collinearity issues.<br>
 ![image](https://github.com/nwferreri/multilinear-regression/assets/112211174/cca818f8-e5bd-40e4-b8ca-28412fd01870)<br>
 No significant collinearity was found, so analysis proceeded with selected variables.
 
